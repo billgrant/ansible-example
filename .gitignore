@@ -1,1 +1,4 @@
 *.retry
+
+backup/*
+!backup/.gitkeep 
