@@ -1,4 +1,4 @@
 *.retry
 
-backup/*
-!backup/.gitkeep 
+ansible/backup/*
+ansible/!backup/.gitkeep 
