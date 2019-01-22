@@ -1,5 +1,7 @@
 # NX-OS global parameters
 
+---
+
 ansible_connection: httpapi
 ansible_network_os: nxos
 ansible_user: admin
